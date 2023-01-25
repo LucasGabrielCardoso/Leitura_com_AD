@@ -31,7 +31,7 @@
 #ifndef SYSTEM_H_
     #define	SYSTEM_H_
 
-    #include "components/display_LCD/lcd_4bit_Mode.h"
+    #include "../components/display_LCD/lcd_4bit_Mode.h"
     #include "system_config.h"
     #include "adc.h"
 
